@@ -1,0 +1,14 @@
+.menu {
+    height: 35px;
+    display: flex;
+    align-items: center;
+}
+.menu:hover {
+    cursor: pointer;
+    background-color: var(--purple);
+    padding-left: 10px;
+    color: var(--white);
+    font-weight: bold;
+
+    
+}

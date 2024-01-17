@@ -1,0 +1,15 @@
+:root {
+  --black: #000; 
+  --white: #fff;
+  --pink: rgb(242, 139, 216);
+  --teal: rgb(77, 219, 210); 
+  --lightgreen: rgb(139, 242, 201);
+  --darkblue: rgba(12, 72, 156, 1.0); 
+  --purple: rgb(218, 125, 247);
+  --blue: rgb(147, 186, 240); 
+  
+
+  --large-font: 20px; 
+  --medium-font: 17px; 
+  --small-font: 14px; 
+}

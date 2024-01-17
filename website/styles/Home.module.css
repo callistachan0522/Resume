@@ -1,0 +1,31 @@
+.main {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.container {
+  display: flex;
+}
+
+.stuff {
+  display: flex;
+  flex-direction: column;
+  flex: 70%;
+  margin-left: 20px;
+
+}
+
+.cardContainer {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.first {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
